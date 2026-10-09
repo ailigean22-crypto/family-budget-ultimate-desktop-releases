@@ -1,9 +1,13 @@
 {
-  "version": "7.4.0",
-  "versionCode": 106,
-  "apkUrl": "https://github.com/ailigean22-crypto/family-budget-ultimate-android-releases/releases/download/android-v7.4.0/Semeinyi-Biudzhet-Android-7.4.0.apk",
-  "fileName": "Semeinyi-Biudzhet-Android-7.4.0.apk",
-  "releasePageUrl": "https://github.com/ailigean22-crypto/family-budget-ultimate-android-releases/releases/tag/android-v7.4.0",
-  "publishedAt": "2026-09-27T20:16:56.949Z",
-  "source": "GitHub Android APK feed"
+  "version": "7.4.3",
+  "versionCode": 109,
+  "apkUrl": "https://github.com/ailigean22-crypto/family-budget-ultimate-android-releases/releases/download/android-v7.4.3/Semeinyi-Biudzhet-Android-7.4.3.apk",
+  "fileName": "Semeinyi-Biudzhet-Android-7.4.3.apk",
+  "releasePageUrl": "https://github.com/ailigean22-crypto/family-budget-ultimate-android-releases/releases/tag/android-v7.4.3",
+  "publishedAt": "2026-10-09T13:47:27Z",
+  "source": "GitHub Android APK feed",
+  "sourceRepository": "ailigean22-crypto/family-budget-ultimate-desktop",
+  "sourceSha": "663614a7475e69461aca75df652f2cddf9924387",
+  "sha256": "a150a548adb1fb55821d959d58150251c0edec7a26ebb6f386658aab638afcf8",
+  "provenanceUrl": "https://github.com/ailigean22-crypto/family-budget-ultimate-android-releases/releases/download/android-v7.4.3/release-provenance.json"
 }
